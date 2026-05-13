@@ -1,3 +1,4 @@
+// Submitted by EthereumHistory (ethereumhistory.com)
 contract CoolCoin {
     address public organizer;
     string public name;
